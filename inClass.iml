@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Jar Files/byte-buddy-1.8.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/cglib-nodep-2.1_3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/client-combined-3.141.59.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/commons-codec-1.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/commons-codec-1.13.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/commons-compress-1.20.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/commons-exec-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/commons-io-2.8.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/commons-lang3-3.11.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/commons-logging-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/gson-2.3.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/gson-2.8.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/guava-29.0-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/httpclient-4.4.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/httpclient5-5.0.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/httpcore-4.4.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/httpcore5-5.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/httpcore5-h2-5.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/jarchivelib-1.1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/jna-4.1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/jna-platform-4.1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/json-20080701.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/jsoup-1.13.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/okhttp-3.11.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/okio-1.14.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/selenium-api-2.38.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/selenium-api-2.47.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/selenium-chrome-driver-2.47.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/selenium-remote-driver-2.47.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/slf4j-api-1.7.30.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Jar Files/webdrivermanager-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../Jar Files/client-combined-3.141.59-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
